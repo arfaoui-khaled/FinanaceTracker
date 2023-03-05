@@ -15,6 +15,7 @@ gem "twitter-bootstrap-rails"
 gem "devise-bootstrap-views"
 gem "stock_quote"
 gem "ffi"
+gem "font-awesome-rails"
 
 
 # Use the Puma web server [https://github.com/puma/puma]
